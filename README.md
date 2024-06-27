@@ -12,5 +12,4 @@ Me chamo Gabriel, sou um homem trans 🏳️‍⚧️
 
 
 
-[[![image](https://github.com/bieelgm/bieelgm/assets/173468158/b82cfea2-3859-40bd-8441-ffced372132e)
-](https://media.tenor.com/RwpEi4f7Zu0AAAAM/cravity-park-serim.gif)
+![](https://media.tenor.com/RwpEi4f7Zu0AAAAM/cravity-park-serim.gif)
