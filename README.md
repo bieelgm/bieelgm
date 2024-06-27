@@ -8,7 +8,7 @@ Me chamo Gabriel, sou um homem trans 🏳️‍⚧️
 
 ### Você pode entrar em conto comigo atrvés do meu email:
 
-📫 
+📫 galvaogabriel0616@gmail.com
 
 
 
