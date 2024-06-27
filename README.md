@@ -1,16 +1,16 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💛
 
-<!--
-**bieelgm/bieelgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel, sou um homem trans 🏳️‍⚧️
 
-Here are some ideas to get you started:
+- Estou estudando pelo [Alura](https://wwww.alura.com.br)
+- Estou aprendendo a desenvolver na linguagem JavaScript
+- Uso este espaçopra minha organização e compaartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em conto comigo atrvés do meu email:
+
+📫 galvaogabriel0616@gmail.com
+
+
+
+![image](https://github.com/bieelgm/bieelgm/assets/173468158/b82cfea2-3859-40bd-8441-ffced372132e)
+
